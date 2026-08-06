@@ -1,0 +1,17 @@
+{
+  "problem_number": 1,
+  "slug": "two-sum",
+  "title": "Two Sum",
+  "difficulty": "Easy",
+  "language": "python",
+  "algorithm": "Hash Table",
+  "patterns": [
+    "Hash Table"
+  ],
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n)",
+  "url": "https://leetcode.com/problems/two-sum/description/",
+  "generated_at": "2026-08-06T21:48:34.882600",
+  "llm_provider": "nvidia",
+  "llm_model": "meta/llama-3.1-8b-instruct"
+}
