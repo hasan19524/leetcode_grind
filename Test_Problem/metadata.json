@@ -1,0 +1,15 @@
+{
+  "problem_number": 0,
+  "slug": "",
+  "title": "Test Problem",
+  "difficulty": "Easy",
+  "language": "python",
+  "algorithm": "Arithmetic Operation",
+  "patterns": [],
+  "time_complexity": "O(1)",
+  "space_complexity": "O(1)",
+  "url": "http://test.com",
+  "generated_at": "2026-08-07T22:18:40.918321",
+  "llm_provider": "nvidia",
+  "llm_model": "meta/llama-3.1-8b-instruct"
+}
