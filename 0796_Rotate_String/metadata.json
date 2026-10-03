@@ -1,0 +1,19 @@
+{
+  "problem_number": 796,
+  "slug": "rotate-string",
+  "title": "Rotate String",
+  "difficulty": "Easy",
+  "language": "java",
+  "algorithm": "String Concatenation and Substring Search",
+  "patterns": [
+    "String",
+    "Substring Search",
+    "Rotation Check"
+  ],
+  "time_complexity": "O(n^2)",
+  "space_complexity": "O(n)",
+  "url": "https://leetcode.com/problems/rotate-string/submissions/2161404324/",
+  "generated_at": "2026-10-03T18:51:30.190678",
+  "llm_provider": "openrouter",
+  "llm_model": "qwen/qwen3.8-27b:free"
+}
