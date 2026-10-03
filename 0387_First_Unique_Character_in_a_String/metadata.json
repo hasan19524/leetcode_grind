@@ -1,0 +1,19 @@
+{
+  "problem_number": 387,
+  "slug": "first-unique-character-in-a-string",
+  "title": "First Unique Character in a String",
+  "difficulty": "Easy",
+  "language": "java",
+  "algorithm": "Frequency Counting",
+  "patterns": [
+    "Frequency Counting",
+    "String",
+    "Array"
+  ],
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)",
+  "url": "https://leetcode.com/problems/first-unique-character-in-a-string/submissions/2161378621/",
+  "generated_at": "2026-10-03T18:42:23.725374",
+  "llm_provider": "openrouter",
+  "llm_model": "qwen/qwen3.8-27b:free"
+}
